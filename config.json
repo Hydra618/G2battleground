@@ -1,0 +1,6 @@
+{
+    "token": "OTQyNzczNTg5NTg3OTMxMTM3.YgpYUw.bEw-GiiGZy8pglzTJrSwUok25qI",
+    "prefix": "*",
+    "mongooseConnectionString": "mongodb+srv://Hydra:hydraop@gentex.gxnhg.mongodb.net/g2?retryWrites=true&w=majority",
+    "CHANNEL_WELCOME": ""
+}
